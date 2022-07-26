@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Tech/static/css/main.c99668aa.css",
+    "main.js": "/News-Tech/static/js/main.37fec63f.js",
+    "static/js/787.a66c9fb1.chunk.js": "/News-Tech/static/js/787.a66c9fb1.chunk.js",
+    "static/media/image2.jpg": "/News-Tech/static/media/image2.7bce53b4054e0644270b.jpg",
+    "index.html": "/News-Tech/index.html",
+    "main.c99668aa.css.map": "/News-Tech/static/css/main.c99668aa.css.map",
+    "main.37fec63f.js.map": "/News-Tech/static/js/main.37fec63f.js.map",
+    "787.a66c9fb1.chunk.js.map": "/News-Tech/static/js/787.a66c9fb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99668aa.css",
+    "static/js/main.37fec63f.js"
+  ]
+}
